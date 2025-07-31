@@ -5,6 +5,14 @@ This is my project for Hack Club Highways. I call it Balsync A  smart robotic pl
 
 In Balsync, I used a Raspberry Pi 4 Model B (4GB RAM) as the core controller. A 5MP camera is mounted above the platform and continuously tracks the position of a pink-colored ball. The platform itself is mounted on three MG995 metal gear servo motors. These motors are driven by a PCA9685 16-channel PWM module that receives instructions via I2C from the Raspberry Pi. By adjusting the angles of these three servos, I am able to tilt the platform in any direction.
 
+
+<img width="609" height="582" alt="image" src="https://github.com/user-attachments/assets/a159e14e-b5de-4e9f-b0fa-e60763558f6e" />
+
+
+
+
+
+
 The main task of Balsync is to keep the ball at the center of the platform. To achieve this, I used a PID control algorithm that continuously calculates how far the ball is from the center. The PID controller then outputs two values: the direction in which the platform should tilt, and how much it should tilt. These values are passed to an inverse kinematics function that calculates the required angles for the three servo motors. This way, the robot actively tries to cancel out any displacement of the ball.
 
 <img width="664" height="211" alt="image" src="https://github.com/user-attachments/assets/befeb0cc-fbab-42b5-adeb-7dcc6e2a4a90" />
@@ -27,15 +35,25 @@ Through this proposal, I aim to bring together concepts from real-time computer 
 
 As part of my Hack Club Highways submission, I am excited to present Balsync as a technically feasible, impactful, and educational project. I hope it gets selected for the grant so that I can begin the hardware build, testing, and real-world validation. I also plan to expand the system in future iterations with machine learning-based ball prediction, smoother servo interpolation, and possibly remote control via mobile or web interfaces.
 
-Images, progress documentation, and hardware assembly photos will be added to this repository after I begin building:
+
+## CAD PREVIEW
 
 
 
 
+<img width="614" height="584" alt="image" src="https://github.com/user-attachments/assets/63fecd6d-e816-4929-b5b0-263a651ce66c" />
 
 
 
+<img width="581" height="534" alt="image" src="https://github.com/user-attachments/assets/d6199097-dd5b-4e8e-8e95-e82236d9c84d" />
 
+
+
+<img width="566" height="533" alt="image" src="https://github.com/user-attachments/assets/9e45f8c4-0c46-4c73-934f-58f157b48e8c" />
+
+
+
+<img width="540" height="482" alt="image" src="https://github.com/user-attachments/assets/ad0c0c64-7296-479f-be49-05ab25beec3a" />
 
 
 
