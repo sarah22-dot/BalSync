@@ -1,6 +1,11 @@
 
 # Balsync – Ball Balancing Robot using Raspberry Pi
 
+
+<img width="1200" height="500" alt="68747470733a2f2f68632d63646e2e68656c312e796f75722d6f626a65637473746f726167652e636f6d2f732f76332f306262636361363866666133383435333030626237363934306638616439316664353364326436385f30362d33302d323032352d313631382e706e" src="https://github.com/user-attachments/assets/92e261d6-6934-49d6-86aa-f784dd4165f3" />
+
+
+
 This is my project for Hack Club Highways. I call it Balsync A  smart robotic platform that balances a ball in real-time using a Raspberry Pi, computer vision, and precise servo control. I designed and built this system to understand how software and hardware can work together to maintain balance dynamically, just like how we naturally adjust our hand to keep a marble from rolling off our palm.
 
 In Balsync, I used a Raspberry Pi 4 Model B (4GB RAM) as the core controller. A 5MP camera is mounted above the platform and continuously tracks the position of a pink-colored ball. The platform itself is mounted on three MG995 metal gear servo motors. These motors are driven by a PCA9685 16-channel PWM module that receives instructions via I2C from the Raspberry Pi. By adjusting the angles of these three servos, I am able to tilt the platform in any direction.
