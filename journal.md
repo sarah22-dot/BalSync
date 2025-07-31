@@ -89,8 +89,12 @@ Given a desired tilt in X and Y, it calculated the required change in Z-height a
 <img width="843" height="596" alt="image" src="https://github.com/user-attachments/assets/d882e590-bc2e-460a-9e48-4e19e6c138fa" />
 
 
-[arm2 (1).pdf](https://github.com/user-attachments/files/21533732/arm2.1.pdf)
+<img width="501" height="683" alt="image" src="https://github.com/user-attachments/assets/ed361ca2-b734-4dce-8fbc-a49923330876" />
 
+<img width="503" height="719" alt="image" src="https://github.com/user-attachments/assets/a74eb110-1e78-4c3b-9631-ce7fedd3f6ea" />
+<img width="498" height="687" alt="image" src="https://github.com/user-attachments/assets/82e22a66-f157-4e2e-94d4-63b1b0a93609" />
+
+<img width="496" height="697" alt="image" src="https://github.com/user-attachments/assets/ed3aecdd-f8f0-4bee-a8bf-6711aec87c29" />
 
 Referred this pdf for implementing Inverse kinematics
 
