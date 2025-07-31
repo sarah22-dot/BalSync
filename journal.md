@@ -1,3 +1,13 @@
+---
+Title: "BalSync"
+Author: "Sarah"
+Description: "A Ball Balancing robot"
+created_at: "2025-07-31"
+Total time spent: 29
+---
+
+
+
 ## 17th July  (3.5 hours)
 
 The journey began with a vision to create a robotic platform capable of balancing a ball in real-time. I called it **Balsync**, a fusion of "Balance" and "Synchronization." My goal was to explore how real-time feedback, control theory, and mechanical design could be merged into one responsive machine. I wanted the platform to feel almost alive, reacting fluidly like a human hand adjusting to a marble's position.
@@ -60,7 +70,7 @@ With all mechanical elements in place, I began Assembling. The servos would be p
 <img width="678" height="715" alt="image" src="https://github.com/user-attachments/assets/ecb351ec-2780-48ab-b52a-1615c341a195" />
 
 
-## 24th July  (7 hours)
+## 24th July  (8 hours)
 
 Today, I moved into software territory. Even though I had not yet tested the hardware, I wanted to write the entire codebase to reinforce what I had learned.
 
