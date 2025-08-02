@@ -35,6 +35,15 @@ As part of my Hack Club Highways submission, I am excited to present Balsync as 
 <img width="566" height="533" alt="image" src="https://github.com/user-attachments/assets/9e45f8c4-0c46-4c73-934f-58f157b48e8c" />
 <img width="540" height="482" alt="image" src="https://github.com/user-attachments/assets/ad0c0c64-7296-479f-be49-05ab25beec3a" />
 
+
+Will Be using rasp pi zero 2 W ( suggestion by cyao)
+
+
+<img width="715" height="686" alt="image" src="https://github.com/user-attachments/assets/e8bfe1b0-6ba8-404e-8671-2c0a66dc96a1" />
+
+
+
+
 ---
 
 ## Code Structure
