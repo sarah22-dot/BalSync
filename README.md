@@ -80,8 +80,8 @@ As part of my Hack Club Highways submission, I am excited to present Balsync as 
 ---
 
 **Total Estimated Cost**  
-**INR**: ₹7,069  
-**USD**: $88  
+**INR**: ₹5330.72
+**USD**: $61.13 
 
 ---
 
